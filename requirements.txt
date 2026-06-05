@@ -1,0 +1,6 @@
+# Tiempos de Servicio — Método D
+# Todas las dependencias son de la biblioteca estándar de Python.
+# No se requiere instalar paquetes externos.
+# Versión mínima de Python: 3.8
+
+# stdlib usado: csv, math, os, sys, statistics, datetime, collections
