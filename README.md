@@ -36,8 +36,8 @@ Los datasets CSV **no están incluidos en el repositorio** por su tamaño. Está
 
 | Dataset | Script | Link |
 |---|---|---|
-| `DATASET 2025 SUCURSALES DENSAS - TODOS LOS STOPS.csv` | `metodo_d_segmentos.py` | **[INSERTAR LINK]** |
-| `DATASET 2026 AUTOMOTRIZ - TS.csv` | `metodo_d_automotriz.py` | **[INSERTAR LINK]** |
+| `DATASET 2025 SUCURSALES DENSAS - TODOS LOS STOPS.csv` | `metodo_d_segmentos.py` | https://drive.google.com/file/d/1_8j6bz2FmyTy_SjvaxKyhoAt1QR-p8lX/view?usp=drive_link |
+| `DATASET 2026 AUTOMOTRIZ - TS.csv` | `metodo_d_automotriz.py` | https://drive.google.com/file/d/1W8vAyVMm-ge3H7TS1VG9_0Yoxt_zOPF1/view?usp=drive_link |
 
 Descargá los CSV y colocalos en la **misma carpeta** donde estén los scripts Python antes de ejecutar.
 
